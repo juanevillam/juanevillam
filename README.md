@@ -3,9 +3,7 @@
 - 📫 You can reach me and write me: juanestebanvillamemdoza@gmail.com.
 - :computer: I really love programming.
 - :rocket: Here I am to create technology and improve the World by it.
-- 💬 Here is my [Twitter](https://twitter.com/juanevillam) where I publish nice things.
-- :camera: Here is my [Instagram](https://instagram.com/juanevillam) where I publish nice photos.
-
+- 
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
