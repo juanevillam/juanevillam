@@ -1,8 +1,7 @@
 # Hello. I'm Juan Villa.
 - 👜 Here is my [LinkedIn](https://www.linkedin.com/in/juanevillam/).
-- 💻 I’m currently working in Frontend with React & TailwindCSS.
+- 💻 I’m currently working in Frontend with React js and React Native.
 - 📫 You can reach me and write me: juanestebanvillamemdoza@gmail.com.
-- 🎓I'm in the first year studiying computer engineering at the [Yacambu University](http://www.uny.edu.ve/).
 
 ## ⚡ Technologies
 
