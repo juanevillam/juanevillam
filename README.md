@@ -1,6 +1,6 @@
 # Hello. I'm Juan Villa.
 - 👜 Here is my [LinkedIn](https://www.linkedin.com/in/juanevillam/).
-- 💻 I’m currently working in Frontend with React js and React Native.
+- 💻 I’m currently working in Frontend with Next.js and React Native.
 - 📫 You can reach me and write me: juanestebanvillamemdoza@gmail.com.
 
 ## ⚡ Technologies
