@@ -54,6 +54,4 @@ Custom websites for clients in Spain and Argentina.
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://linkedin.com/in/juanevillam)
-[![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:juanesvillamendoza@gmail.com)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge)](https://instagram.com/juanevillam)
+[LinkedIn](https://linkedin.com/in/juanevillam) · [Instagram](https://instagram.com/juanevillam)
