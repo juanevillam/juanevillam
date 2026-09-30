@@ -1,39 +1,54 @@
-# 你好，我是 Juan Villa
+# Hi · Hola · 你好, I'm Juan Villa
 
-**Frontend Developer** specializing in `React Native` and `Next.js` applications. With **3+ years** of experience building user-centric web/mobile solutions, I combine **modern technologies** with clean code practices to solve **complex technical challenges**. Passionate about creating innovative implementations for forward-thinking organizations.  
+**Software developer** from Venezuela. I build native mobile apps and web products, and I build them the way I play games: going for the platinum.
 
-## Tech Stack
+Since 2022 I've been the frontend lead at [Crol](https://www.crol.mx), a cloud ERP for small and mid-sized businesses in Mexico. On my own time I build my own apps.
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React & React Native](https://img.shields.io/badge/react_&_react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+## My apps
 
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Prisma](https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+> Both are on their way to the App Store and Google Play.
 
-### **Cloud & Deployment**
-![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### Sound Shaper
 
-### **Tools & Design**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+A music player for your own MP3s. Change the speed live, shape the equalizer and the effects (preserve pitch, echo, next room), and save your favorite seconds as clips. Everything lives on your phone and works offline.
 
-## GitHub Stats
-![Stats](https://nirzak-streak-stats.vercel.app/?user=juanevillam&theme=tokyonight&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=juanevillam&theme=tokyonight&no-frame=true&no-bg=true)
+- **Preserve pitch that works on music.** The audio library shipped a time-stretcher tuned for voice, which tore music apart. I patched its C++ and replaced it with a phase vocoder.
+- **No more crackling on Android.** The audio stream asked for a 2 ms callback, too short to fit the vocoder's FFT. I reconfigured it to 26.7 ms.
+- **Its own backend.** A Cloudflare Worker deletes media from Cloudinary for the signed-in person, so the app doesn't need Firebase's paid plan.
+- Home Screen widgets, Lock Screen and Dynamic Island controls, and a library you arrange by dragging covers.
+
+<p>
+  <img src="assets/sound-shaper-home.png" width="200" alt="Sound Shaper library" />
+  <img src="assets/sound-shaper-player.png" width="200" alt="Sound Shaper player" />
+  <img src="assets/sound-shaper-shape.png" width="200" alt="Sound Shaper equalizer and effects" />
+  <img src="assets/sound-shaper-clip.png" width="200" alt="Sound Shaper clip editor" />
+</p>
+
+### Topper
+
+A social app for rankings of anything, like Letterboxd for tops: your favorite games, albums, movies. Follow people, react, comment, and recover what you delete.
+
+### Both apps
+
+- iOS and Android from one codebase (React Native + Expo), with truly native UI: SwiftUI on iOS, Jetpack Compose on Android.
+- A shared monorepo: design system, PlayStation-style trophies and widget plumbing live in packages both apps use.
+- Every screen measured pixel by pixel against Apple's own apps, in light and dark.
+- Every app speaks English, Spanish and Chinese.
+
+## Work
+
+**Lead Frontend Developer · Crol** (Feb 2022 – present)
+Web and mobile apps for sales, electronic invoicing (CFDI), inventory and real-time reports. I built Crol's mobile app, took our codebases from JavaScript to TypeScript, React to Next.js and Expo to bare React Native, and integrated the BBPOS SDK for Bluetooth card payments.
+
+**Frontend Developer · Freelance** (Feb 2021 – Jan 2022)
+Custom websites for clients in Spain and Argentina.
+
+## Stack
+
+`TypeScript` `React Native` `Expo` `SwiftUI` `Jetpack Compose` `Next.js` `React` `Astro` `Redux` `Firebase` `Cloudflare Workers` `C++` `Figma`
 
 ## Contact
+
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://linkedin.com/in/juanevillam)
-[![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:juanestebanvillamendoza@gmail.com)
+[![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:juanesvillamendoza@gmail.com)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge)](https://instagram.com/juanevillam)
