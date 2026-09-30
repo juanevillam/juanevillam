@@ -6,8 +6,6 @@ Since 2022 I've been the frontend lead at [Crol](https://www.crol.mx), a cloud E
 
 ## My apps
 
-> Both are on their way to the App Store and Google Play.
-
 ### Sound Shaper
 
 A music player for your own MP3s. Change the speed live, shape the equalizer and the effects (preserve pitch, echo, next room), and save your favorite seconds as clips. Everything lives on your phone and works offline.
