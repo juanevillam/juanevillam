@@ -51,6 +51,11 @@ Local shops sell discounted surprise packs in their slow hours; you reserve in t
 **Frontend Developer · Freelance** (Feb 2021 – Jan 2022)
 Custom websites for clients in Spain and Argentina.
 
+## Sites I built
+
+- [salvalo.app](https://salvalo.app): Salvalo's landing page
+- [contopay.lat](https://www.contopay.lat): Conto Pay's landing page, a mobile point of sale from the Crol group
+
 ## Stack
 
 `TypeScript` `React Native` `Expo` `SwiftUI` `Jetpack Compose` `Next.js` `React` `Astro` `Redux` `Firebase` `Cloudflare Workers` `C++` `Figma`
