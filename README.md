@@ -43,7 +43,7 @@ A social app for rankings of anything, like Letterboxd for tops: your favorite g
 ## Work
 
 **Lead Frontend Developer · Crol** (Feb 2022 – present)
-Web and mobile apps for sales, electronic invoicing (CFDI), inventory and real-time reports. I built Crol's mobile app, used by major clients across Mexico, took our codebases from JavaScript to TypeScript, React to Next.js and Expo to bare React Native, and integrated the BBPOS SDK for Bluetooth card payments.
+Web and mobile apps for sales, electronic invoicing (CFDI), inventory and real-time reports. I built [Crol's mobile app](https://apps.apple.com/mx/app/crol-erp-m%C3%B3vil/id6743251171) ([Google Play](https://play.google.com/store/apps/details?id=com.crolapp)), used by major clients across Mexico, took our codebases from JavaScript to TypeScript, React to Next.js and Expo to bare React Native, and integrated the BBPOS SDK for Bluetooth card payments.
 
 **Co-founder · [Salvalo](https://salvalo.app)** (Jun 2024 – present)
 Local shops sell discounted surprise packs in their slow hours; you reserve in the app and pick it up in store. Live on the [App Store](https://apps.apple.com/es/app/salvalo/id6759407790) and [Google Play](https://play.google.com/store/apps/details?id=com.grostify.salvalo), piloting in Barquisimeto, Venezuela. I rebuilt the app's UI, built the landing page and the shop and admin panels, and I'm out visiting the shops for the pilot.
