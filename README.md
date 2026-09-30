@@ -53,6 +53,7 @@ Custom websites for clients in Spain and Argentina.
 
 ## Sites I built
 
+- [maktubartfund.com](https://maktubartfund.com): an art investment fund in Mexico. Astro, with a Keystatic CMS so the client edits every text, image and video on their own
 - [salvalo.app](https://salvalo.app): Salvalo's landing page
 - [contopay.lat](https://www.contopay.lat): Conto Pay's landing page, a mobile point of sale from the Crol group
 
