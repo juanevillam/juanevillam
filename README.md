@@ -8,12 +8,11 @@ Since 2022 I've been the frontend lead at [Crol](https://www.crol.mx), a cloud E
 
 ### Sound Shaper
 
-A music player for your own MP3s. Change the speed live, shape the equalizer and the effects (preserve pitch, echo, next room), and save your favorite seconds as clips. Everything lives on your phone and works offline.
+A music player for your own MP3s, shaped the way you want them to sound.
 
-- **Preserve pitch that works on music.** The audio library shipped a time-stretcher tuned for voice, which tore music apart. I patched its C++ and replaced it with a phase vocoder.
-- **No more crackling on Android.** The audio stream asked for a 2 ms callback, too short to fit the vocoder's FFT. I reconfigured it to 26.7 ms.
-- **Its own backend.** A Cloudflare Worker deletes media from Cloudinary for the signed-in person, so the app doesn't need Firebase's paid plan.
-- Home Screen widgets, Lock Screen and Dynamic Island controls, and a library you arrange by dragging covers.
+- **Make every song yours.** Change the speed live, set a five-band equalizer or a preset, and add effects like Preserve Pitch, Echo and Next Room.
+- **Keep the part you love.** Save your favorite seconds as clips and loop them anytime.
+- **Always with you.** Your library lives on your phone and works offline, with Home Screen widgets, Lock Screen and Dynamic Island controls.
 
 <p>
   <img src="assets/sound-shaper-library.png" width="200" alt="Sound Shaper library" />
@@ -24,7 +23,7 @@ A music player for your own MP3s. Change the speed live, shape the equalizer and
 
 ### Topper
 
-A social app for rankings of anything, like Letterboxd for tops: your favorite games, albums, movies. Follow people, agree or push back on their order, comment, and earn PlayStation-style trophies along the way.
+A social app for rankings of anything, like Letterboxd for tops: your favorite games, albums, movies. Follow people, agree or push back on their order, and settle it in the comments.
 
 <p>
   <img src="assets/topper-home.png" width="200" alt="Topper home" />
@@ -35,15 +34,14 @@ A social app for rankings of anything, like Letterboxd for tops: your favorite g
 
 ### Both apps
 
-- iOS and Android from one codebase (React Native + Expo), with truly native UI: SwiftUI on iOS, Jetpack Compose on Android.
-- A shared monorepo: design system, PlayStation-style trophies and widget plumbing live in packages both apps use.
-- Every screen measured pixel by pixel against Apple's own apps, in light and dark.
-- Every app speaks English, Spanish and Chinese.
+- iOS and Android, with truly native UI on each.
+- PlayStation-style trophies and Home Screen widgets.
+- In English, Spanish and Chinese.
 
 ## Work
 
 **Lead Frontend Developer · Crol** (Feb 2022 – present)
-Web and mobile apps for sales, electronic invoicing (CFDI), inventory and real-time reports. I built [Crol's mobile app](https://apps.apple.com/mx/app/crol-erp-m%C3%B3vil/id6743251171) ([Google Play](https://play.google.com/store/apps/details?id=com.crolapp)), used by major clients across Mexico, took our codebases from JavaScript to TypeScript, React to Next.js and Expo to bare React Native, and integrated the BBPOS SDK for Bluetooth card payments.
+Web and mobile apps for sales, electronic invoicing (CFDI), inventory and real-time reports. I built [Crol's mobile app](https://apps.apple.com/mx/app/crol-erp-m%C3%B3vil/id6743251171) ([Google Play](https://play.google.com/store/apps/details?id=com.crolapp)), used by major clients across Mexico, and I lead the frontend of its web and mobile products.
 
 **Co-founder · [Salvalo](https://salvalo.app)** (Jun 2024 – present)
 Local shops sell discounted surprise packs in their slow hours; you reserve in the app and pick it up in store. Live on the [App Store](https://apps.apple.com/es/app/salvalo/id6759407790) and [Google Play](https://play.google.com/store/apps/details?id=com.grostify.salvalo), piloting in Barquisimeto, Venezuela. I rebuilt the app's UI, built the landing page and the shop and admin panels, and I'm out visiting the shops for the pilot.
@@ -55,7 +53,7 @@ Custom websites for clients in Spain and Argentina.
 
 - [salvalo.app](https://salvalo.app): Salvalo's landing page
 - [contopay.lat](https://www.contopay.lat): Conto Pay's landing page, a mobile point of sale from the Crol group
-- [maktubartfund.com](https://maktubartfund.com): an art investment fund in Mexico. Astro, with a Keystatic CMS so the client edits every text, image and video on their own
+- [maktubartfund.com](https://maktubartfund.com): an art investment fund in Mexico, fully editable by the client through a CMS
 
 ## Stack
 
