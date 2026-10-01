@@ -2,7 +2,7 @@
 
 **Software developer** from Venezuela. I build native mobile apps and web products, and I build them the way I play games: going for the platinum.
 
-Since 2022 I've been the frontend lead at [Crol](https://www.crol.mx), a cloud ERP for small and mid-sized businesses in Mexico. On my own time I build my own apps.
+Since 2022 I've built web and mobile products at [Crol](https://www.crol.mx), a cloud ERP for small and mid-sized businesses in Mexico. On my own time I build my own apps.
 
 ## My apps
 
@@ -41,7 +41,7 @@ A social app for rankings of anything, like Letterboxd for tops: your favorite g
 ## Work
 
 **Lead Frontend Developer · Crol** (Feb 2022 – present)
-Web and mobile apps for sales, electronic invoicing (CFDI), inventory and real-time reports. I built [Crol's mobile app](https://apps.apple.com/mx/app/crol-erp-m%C3%B3vil/id6743251171) ([Google Play](https://play.google.com/store/apps/details?id=com.crolapp)), used by major clients across Mexico, and I lead the frontend of its web and mobile products.
+Crol is a cloud ERP for small and mid-sized businesses in Mexico. I built [its mobile app](https://apps.apple.com/mx/app/crol-erp-m%C3%B3vil/id6743251171) ([Google Play](https://play.google.com/store/apps/details?id=com.crolapp)) from scratch, design included, now used by major clients across Mexico. Before that I led Conto Pay, the group's point-of-sale product, from design to release: web, mobile and landing page.
 
 **Co-founder · [Salvalo](https://salvalo.app)** (Jun 2024 – present)
 Local shops sell discounted surprise packs in their slow hours; you reserve in the app and pick it up in store. Live on the [App Store](https://apps.apple.com/es/app/salvalo/id6759407790) and [Google Play](https://play.google.com/store/apps/details?id=com.grostify.salvalo), piloting in Barquisimeto, Venezuela. I rebuilt the app's UI, built the landing page and the shop and admin panels, and I'm out visiting the shops for the pilot.
