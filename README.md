@@ -36,7 +36,6 @@ A social app for rankings of anything, like Letterboxd for tops: your favorite g
 
 - iOS and Android, with truly native UI on each.
 - PlayStation-style trophies and Home Screen widgets.
-- In English, Spanish and Chinese.
 
 ## Work
 
