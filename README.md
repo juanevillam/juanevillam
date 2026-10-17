@@ -2,17 +2,18 @@
 
 **Software developer** from Venezuela. I build native mobile apps and web products, and I build them the way I play games: going for the platinum.
 
-Since 2022 I've built web and mobile products at [Crol](https://www.crol.mx), a cloud ERP for small and mid-sized businesses in Mexico. On my own time I build my own apps.
+Since 2022 I've worked remotely for companies in Mexico, most of all [Crol](https://www.crol.mx), a cloud ERP for small and mid-sized businesses. I'm also the technical co-founder of [Salvalo](https://salvalo.app). On my own time I build my own apps: tools I use every day, with the flows I wish other apps had.
 
 ## My apps
 
 ### Sound Shaper
 
-A music player for your own MP3s, shaped the way you want them to sound.
+A music player for your own MP3s, shaped the way you want them to sound. Native on iOS and Android.
 
 - **Make every song yours.** Change the speed live, set a five-band equalizer or a preset, and add effects like Preserve Pitch, Echo and Next Room.
 - **Keep the part you love.** Save your favorite seconds as clips and loop them anytime.
 - **Always with you.** Your library lives on your phone and works offline, with Home Screen widgets, Lock Screen and Dynamic Island controls.
+- **A little extra.** PlayStation-style trophies, all the way to the platinum.
 
 <p>
   <img src="assets/sound-shaper-library.png" width="200" alt="Sound Shaper library" />
@@ -21,29 +22,17 @@ A music player for your own MP3s, shaped the way you want them to sound.
   <img src="assets/sound-shaper-new-clip.png" width="200" alt="Sound Shaper clip editor" />
 </p>
 
-### Topper
+### Space Explorer
 
-A social app for rankings of anything, like Letterboxd for tops: your favorite games, albums, movies. Follow people, agree or push back on their order, and settle it in the comments.
-
-<p>
-  <img src="assets/topper-home.png" width="200" alt="Topper home" />
-  <img src="assets/topper-explore.png" width="200" alt="Topper explore" />
-  <img src="assets/topper-top-detail.png" width="200" alt="A top in Topper" />
-  <img src="assets/topper-profile.png" width="200" alt="Topper profile" />
-</p>
-
-### Both apps
-
-- iOS and Android, with truly native UI on each.
-- PlayStation-style trophies and Home Screen widgets.
+A 3D space shooter that fits in 50 KB, built for [Platanus Hack](https://hack.platan.us/26-ve)'s arcade challenge. It started as an easter egg hidden in Sound Shaper. [Play it here](https://hack.platan.us/26/arcade/space-explorer).
 
 ## Work
 
 **Lead Frontend Developer · Crol** (Feb 2022 – present)
-Crol is a cloud ERP for small and mid-sized businesses in Mexico. I built its mobile app from scratch, design included, now used by major clients across Mexico and live on the [App Store](https://apps.apple.com/mx/app/crol-erp-m%C3%B3vil/id6743251171) and [Google Play](https://play.google.com/store/apps/details?id=com.crolapp). Before that I led Conto Pay, the group's point-of-sale product, from design to release: web, mobile and landing page.
+I built Crol ERP Móvil from scratch, design included: the mobile app of a cloud ERP that major clients across Mexico run on today, live on the [App Store](https://apps.apple.com/mx/app/crol-erp-m%C3%B3vil/id6743251171) and [Google Play](https://play.google.com/store/apps/details?id=com.crolapp). It grew out of Conto Pay, the group's simpler point of sale, whose web app, mobile app and landing page I built first.
 
 **Co-founder · [Salvalo](https://salvalo.app)** (Jun 2024 – present)
-Local shops sell discounted surprise packs in their slow hours; you reserve in the app and pick it up in store. Live on the [App Store](https://apps.apple.com/es/app/salvalo/id6759407790) and [Google Play](https://play.google.com/store/apps/details?id=com.grostify.salvalo), piloting in Barquisimeto, Venezuela. I rebuilt the app's UI, built the landing page and the shop and admin panels, and I'm out visiting the shops for the pilot.
+Shops turn the products they still have at closing time into packs with a price and a pickup time; you find one nearby on the map, reserve it, pay the shop and pick it up with a code. Live on the [App Store](https://apps.apple.com/es/app/salvalo/id6759407790) and [Google Play](https://play.google.com/store/apps/details?id=com.grostify.salvalo), piloting in Barquisimeto, Venezuela. As the technical co-founder I redesigned the app, for customers and for shops, and built the new website, which the team edits without code. I also represent Salvalo in Venezuela: pitching to shops and at events.
 
 **Frontend Developer · Freelance** (Feb 2021 – Jan 2022)
 Custom websites for clients in Spain and Argentina.
@@ -53,6 +42,7 @@ Custom websites for clients in Spain and Argentina.
 - [salvalo.app](https://salvalo.app): Salvalo's landing page
 - [contopay.lat](https://www.contopay.lat): Conto Pay's landing page, a mobile point of sale from the Crol group
 - [maktubartfund.com](https://maktubartfund.com): an art investment fund in Mexico, fully editable by the client through a CMS
+- [andreinaaular.com](https://andreinaaular.com): a productivity coach's site, the first one I made
 
 ## Stack
 
