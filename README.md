@@ -8,11 +8,11 @@ Since 2022 I've worked remotely for companies in Mexico, most of all [Crol](http
 
 ### Sound Shaper
 
-A music player for your own MP3s, shaped the way you want them to sound. Native on iOS and Android.
+A music player for your own MP3s, shaped the way you want them to sound. Built native for iPhone, and in App Store review now.
 
 - **Make every song yours.** Change the speed live, set a five-band equalizer or a preset, and add effects like Preserve Pitch, Echo and Next Room.
 - **Keep the part you love.** Save your favorite seconds as clips and loop them anytime.
-- **Always with you.** Your library lives on your phone and works offline, with Home Screen widgets, Lock Screen and Dynamic Island controls.
+- **Always with you.** Your library lives on your phone and works offline, with a Home Screen widget, and Lock Screen and Dynamic Island controls.
 - **A little extra.** PlayStation-style trophies, all the way to the platinum.
 
 <p>
@@ -24,7 +24,7 @@ A music player for your own MP3s, shaped the way you want them to sound. Native 
 
 ### Space Explorer
 
-A 3D space shooter that fits in 50 KB, built for [Platanus Hack](https://hack.platan.us/26-ve)'s arcade challenge. It started as an easter egg hidden in Sound Shaper. [Play it here](https://hack.platan.us/26/arcade/space-explorer).
+A 3D space shooter that fits in 50 KB, built for [Platanus Hack](https://hack.platan.us/26-ve)'s arcade challenge. It started as an easter egg I planned for Sound Shaper, and I took it out to keep the app simple. [Play it here](https://hack.platan.us/26/arcade/space-explorer).
 
 ## Work
 
