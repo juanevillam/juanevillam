@@ -34,7 +34,7 @@ I built Crol ERP Móvil from scratch, design included: the mobile app of a cloud
 **Co-founder · [Salvalo](https://salvalo.app)** (Jun 2024 – present)
 Shops turn the products they still have at closing time into packs with a price and a pickup time; you find one nearby on the map, reserve it, pay the shop and pick it up with a code. Live on the [App Store](https://apps.apple.com/es/app/salvalo/id6759407790) and [Google Play](https://play.google.com/store/apps/details?id=com.grostify.salvalo), piloting in Barquisimeto, Venezuela. As the technical co-founder I redesigned the app, for customers and for shops, and built the new website, which the team edits without code. I also represent Salvalo in Venezuela: pitching to shops and at events.
 
-**Frontend Developer · Freelance** (Feb 2021 – Jan 2022)
+**Frontend Developer · Freelance** (Feb 2021 – Jan 2022, and again since 2026)
 Custom websites for clients in Spain and Argentina.
 
 ## Sites I built
