@@ -35,14 +35,13 @@ I built Crol ERP Móvil from scratch, design included: the mobile app of a cloud
 Shops turn the products they still have at closing time into packs with a price and a pickup time; you find one nearby on the map, reserve it, pay the shop and pick it up with a code. Live on the [App Store](https://apps.apple.com/es/app/salvalo/id6759407790) and [Google Play](https://play.google.com/store/apps/details?id=com.grostify.salvalo), piloting in Barquisimeto, Venezuela. As the technical co-founder I redesigned the app, for customers and for shops, and built the new website, which the team edits without code. I also represent Salvalo in Venezuela: pitching to shops and at events.
 
 **Frontend Developer · Freelance** (Feb 2021 – Jan 2022, and again since 2026)
-Custom websites for clients in Spain and Argentina.
+Custom websites for clients in Spain and Argentina, and since 2026 in Mexico.
 
 ## Sites I built
 
 - [salvalo.app](https://salvalo.app): Salvalo's landing page
 - [contopay.lat](https://www.contopay.lat): Conto Pay's landing page, a mobile point of sale from the Crol group
 - [maktubartfund.com](https://maktubartfund.com): an art investment fund in Mexico, fully editable by the client through a CMS
-- [andreinaaular.com](https://andreinaaular.com): a productivity coach's site, the first one I made
 
 ## Stack
 
