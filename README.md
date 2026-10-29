@@ -2,7 +2,7 @@
 
 **Software developer** from Venezuela. I build native mobile apps and web products, and I build them the way I play games: going for the platinum.
 
-Since 2022 I've worked remotely for companies in Mexico, most of all [Crol](https://www.crol.mx), a cloud ERP for small and mid-sized businesses. I'm also the technical co-founder of [Salvalo](https://salvalo.app). On my own time I build my own apps: tools I use every day, with the flows I wish other apps had.
+Since 2022 I've worked remotely for companies in Mexico, most of all [Crol](https://www.crol.mx), a cloud ERP for small and mid-sized businesses. I'm also the technical co-founder of [Salvalo](https://salvalo.app). On my own time I build my own apps: tools I use every day, with the flows I wish other apps had. All of it, told in my own voice, is at [juanevillam.com](https://juanevillam.com).
 
 ## My apps
 
@@ -26,6 +26,10 @@ A music player for your own MP3s, shaped the way you want them to sound. Built n
 
 A 3D space shooter that fits in 50 KB, built for [Platanus Hack](https://hack.platan.us/26-ve)'s arcade challenge. It started as an easter egg I planned for Sound Shaper, and I took it out to keep the app simple. [Play it here](https://hack.platan.us/26/arcade/space-explorer).
 
+## Tridi
+
+Tridi turns an ordinary phone video of a person into movement data for humanoid robots: a simulated robot learns the movement by imitating you, practicing with real physics across different terrains until it stops falling, and the trained model comes out ready for real hardware. It started at [Platanus Hack 26: Caracas](https://juanevillam.com/events/platanus-hack-caracas-2026-10), built by a team of four in 36 hours, and it keeps going. [Try the demo](https://tridi-alpha.vercel.app).
+
 ## Work
 
 **Lead Frontend Developer · Crol** (Feb 2022 – present)
@@ -46,4 +50,4 @@ Shops turn the products they still have at closing time into packs with a price 
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/juanevillam) · [Instagram](https://instagram.com/juanevillam)
+[juanevillam.com](https://juanevillam.com) · [LinkedIn](https://linkedin.com/in/juanevillam) · [Instagram](https://instagram.com/juanevillam)
