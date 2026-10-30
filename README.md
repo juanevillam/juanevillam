@@ -8,7 +8,7 @@ Since 2022 I've worked remotely for companies in Mexico, most of all [Crol](http
 
 ### Sound Shaper
 
-A music player for your own MP3s, shaped the way you want them to sound. Built native for iPhone, and in App Store review now.
+A music player for your own MP3s, shaped the way you want them to sound. Built native for iPhone, and live on the [App Store](https://apps.apple.com/app/id6823850995).
 
 - **Make every song yours.** Change the speed live, set a five-band equalizer or a preset, and add effects like Preserve Pitch, Echo and Next Room.
 - **Keep the part you love.** Save your favorite seconds as clips and loop them anytime.
@@ -21,6 +21,8 @@ A music player for your own MP3s, shaped the way you want them to sound. Built n
   <img src="assets/sound-shaper-shape.png" width="200" alt="Sound Shaper equalizer and effects" />
   <img src="assets/sound-shaper-new-clip.png" width="200" alt="Sound Shaper clip editor" />
 </p>
+
+The story, in my own voice: [juanevillam.com/sound-shaper](https://juanevillam.com/sound-shaper).
 
 ### Space Explorer
 
