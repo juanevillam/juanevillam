@@ -8,11 +8,11 @@ Since 2022 I've worked remotely for companies in Mexico, most of all [Crol](http
 
 ### Sound Shaper
 
-A music player for your own MP3s, shaped the way you want them to sound. Built native for iPhone, and live on the [App Store](https://apps.apple.com/app/id6823850995).
+A music player for your own MP3s, shaped the way you want them to sound. Built native for iPhone, live on the [App Store](https://apps.apple.com/app/id6823850995), and now [on the web](https://soundshaper.juanevillam.com) too.
 
 - **Make every song yours.** Change the speed live, set a five-band equalizer or a preset, and add effects like Preserve Pitch, Echo and Next Room.
 - **Keep the part you love.** Save your favorite seconds as clips and loop them anytime.
-- **Always with you.** Your library lives on your phone and works offline, with a Home Screen widget, and Lock Screen and Dynamic Island controls.
+- **Always with you.** Your library lives on your phone and works offline, with a Home Screen widget, and Lock Screen and Dynamic Island controls. On a computer, open it in the browser and your library is there.
 - **A little extra.** PlayStation-style trophies, all the way to the platinum.
 
 <p>
