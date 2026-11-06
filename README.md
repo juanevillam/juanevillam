@@ -1,6 +1,6 @@
 # Hi · Hola · 你好, I'm Juan Villa
 
-**Software developer** from Venezuela. I build native mobile apps and web products, and I build them the way I play games: going for the platinum.
+**Product engineer.** I build native mobile apps and web products, and I build them the way I play games: going for the platinum.
 
 Since 2022 I've worked remotely for companies in Mexico, most of all [Crol](https://www.crol.mx), a cloud ERP for small and mid-sized businesses. I'm also the technical co-founder of [Salvalo](https://salvalo.app). On my own time I build my own apps: tools I use every day, with the flows I wish other apps had. All of it, told in my own voice, is at [juanevillam.com](https://juanevillam.com).
 
