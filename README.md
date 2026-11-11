@@ -30,7 +30,7 @@ A 3D space shooter that fits in 50 KB, built for [Platanus Hack](https://hack.pl
 
 ## Tridi
 
-Tridi turns an ordinary phone video of a person into movement data for humanoid robots: a simulated robot learns the movement by imitating you, practicing with real physics across different terrains until it stops falling, and the trained model comes out ready for real hardware. It started at [Platanus Hack 26: Caracas](https://juanevillam.com/events/platanus-hack-caracas-2026-10), built by a team of four in 36 hours, and it keeps going. [Try the demo](https://tridi-alpha.vercel.app).
+Tridi turns an ordinary phone video of a person into movement data for humanoid robots: a simulated robot learns the movement by imitating you, practicing with real physics across different terrains until it stops falling, and the trained model comes out ready for real hardware. It started at [Platanus Hack 26: Caracas](https://juanevillam.com/events/platanus-hack-caracas-2026-10), built by a team of four in 36 hours, and it keeps going. [Try the demo](https://trytridi.com).
 
 ## Work
 
