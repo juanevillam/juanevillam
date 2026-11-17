@@ -22,11 +22,11 @@ A music player for your own MP3s, shaped the way you want them to sound. Built n
   <img src="assets/sound-shaper-new-clip.png" width="200" alt="Sound Shaper clip editor" />
 </p>
 
-The story, in my own voice: [juanevillam.com/sound-shaper](https://juanevillam.com/sound-shaper).
+The story, in my own voice: [juanevillam.com/sound-shaper](https://juanevillam.com/sound-shaper) · [GitHub](https://github.com/juanevillam/sound-shaper).
 
 ### Space Explorer
 
-A 3D space shooter that fits in 50 KB, built for [Platanus Hack](https://hack.platan.us/26-ve)'s arcade challenge. It started as an easter egg I planned for Sound Shaper, and I took it out to keep the app simple. [Play it here](https://hack.platan.us/26/arcade/space-explorer).
+A 3D space shooter that fits in 50 KB, built for [Platanus Hack](https://hack.platan.us/26-ve)'s arcade challenge. It started as an easter egg I planned for Sound Shaper, and I took it out to keep the app simple. Play it at [juanevillam.com/work/space-explorer](https://juanevillam.com/work/space-explorer) · [GitHub](https://github.com/juanevillam/space-explorer).
 
 ## Tridi
 
