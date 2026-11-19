@@ -24,6 +24,16 @@ A music player for your own MP3s, shaped the way you want them to sound. Built n
 
 The story, in my own voice: [juanevillam.com/sound-shaper](https://juanevillam.com/sound-shaper) · [GitHub](https://github.com/juanevillam/sound-shaper).
 
+### Book Highlighter
+
+A personal reader for the book summaries and highlights you capture from your physical books, live [on the web](https://bookhighlighter.juanevillam.com).
+
+- **Scan your pages.** Photograph a book's table of contents and its sticky-note flagged pages to extract chapters, printed page numbers and multi-paragraph highlights on-device with neural OCR.
+- **Read like a book.** Horizontal slide or continuous scroll across five reading themes, including an illustrated `Book` theme with cover-derived accents and botanical ornaments.
+- **Keep a printable copy.** Export any book or your whole shelf as a selectable vector PDF in `A5`, `B5`, `A4` or `Letter`.
+
+The story, in my own voice: [juanevillam.com/book-highlighter](https://juanevillam.com/book-highlighter) · [GitHub](https://github.com/juanevillam/book-highlighter).
+
 ### Space Explorer
 
 A 3D space shooter that fits in 50 KB, built for [Platanus Hack](https://hack.platan.us/26-ve)'s arcade challenge. It started as an easter egg I planned for Sound Shaper, and I took it out to keep the app simple. Play it at [juanevillam.com/work/space-explorer](https://juanevillam.com/work/space-explorer) · [GitHub](https://github.com/juanevillam/space-explorer).
@@ -48,7 +58,7 @@ Shops turn the products they still have at closing time into packs with a price 
 
 ## Stack
 
-`TypeScript` `React Native` `Expo` `SwiftUI` `Jetpack Compose` `Next.js` `React` `Astro` `Redux` `Firebase` `Cloudflare Workers` `C++` `Figma`
+`TypeScript` `React Native` `Expo` `SwiftUI` `Next.js` `React` `Astro` `Redux` `Web Audio API` `ONNX` `Firebase` `Cloudflare Workers` `C++` `Figma`
 
 ## Contact
 
